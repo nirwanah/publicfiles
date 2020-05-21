@@ -1,0 +1,4 @@
+Open in Notepad++
+Join Lines.
+Make sure there is a space between every line.
+Delete all domains currently on lists in WebUI
